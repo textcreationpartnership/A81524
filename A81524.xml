@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The discoverer vncovered, or A vindication of those four close prisoners in the tower, from the exceptions, uncharitable surmises, and criminations of the author ... who wrote that libellus famosus, called The discoverer, and published June 4, 1649. / By Lapis Fructifera, a notorious Parliamentarian, and friend to the army.</title>
+            <author>Fructifera, Lapis.</author>
+         </titleStmt>
+         <extent>Approx. 53KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81524</idno><idno type="EEBO-CITATION">47682887</idno>
+  <idno type="VID">172843</idno>
+  <idno type="EEBO-PROQUEST">2248522213</idno>
+  
+            <idno type="STC">Wing D1630A</idno>
+            <idno type="STC">ESTC R174659</idno>
+            <idno type="OCLC">47682887</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A81524)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172843)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2652:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The discoverer vncovered, or A vindication of those four close prisoners in the tower, from the exceptions, uncharitable surmises, and criminations of the author ... who wrote that libellus famosus, called The discoverer, and published June 4, 1649. / By Lapis Fructifera, a notorious Parliamentarian, and friend to the army.</title>
+                  <author>Fructifera, Lapis.</author>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the Yeer, 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. 20.</note>
+                  <note>Imperfect: cropped, with loss of print.</note>
+                  <note>Reproduction of original in: Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Canne, John, d. 1667? --  Discoverer.</term>
+               <term type="personal_name">Lilburne, John, 1614?-1657.</term>
+               <term type="personal_name">Walwyn, William, b. 1600.</term>
+               <term type="personal_name">Prince, Thomas, fl. 1649.</term>
+               <term type="personal_name">Overton, Richard, fl. 1646.</term>
+               <term type="topical_term">Levellers.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172843:1"/>
+            <p>The DISCOVERER <hi>VNCOVERED. OR</hi> A Vindication of those four close Prisoners in the Tower, from the Exceptions, uncharitable Surmises, and Criminations of the Author (J CANNE spell his Name) who wrote that <hi>Libellus Famosus,</hi> called <hi>The Discoverer,</hi> and Published <hi>June</hi> 4. 1649. By <hi>LAPIS FRƲCTIFERA,</hi> a Notorious Parliamentarian, and Friend to the Army.</p>
+            <q>
+               <bibl>
+                  <hi>PSALME XXXV.</hi>
+               </bibl>
+               <p>
+                  <bibl>V. <hi>11.</hi>
+                  </bibl> False Witnesses did rise up, they laid to my charge things that I knew not.</p>
+               <p>
+                  <bibl>
+                     <hi>12.</hi>
+                  </bibl> They rewarded me evil for good, to the spoiling of my soul.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>REVEL. XI.</hi>
+               </bibl>
+               <p>
+                  <bibl>V. <hi>10.</hi>
+                  </bibl> And they that dwell upon the Earth, shall rejoyce over them, and make merry, and shall send gifts one to an<g ref="char:EOLhyphen"/>other, because these two Prophets tormented them that dwelt on the Earth.</p>
+               <p>
+                  <bibl>
+                     <hi>11.</hi>
+                  </bibl> But, after three daies and a half, the Spirit of life from God entred into them: and they stood upon their feet, and great fear fell upon them which saw them.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Yeer, 1649.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:172843:2"/>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>YOur Friend. Briefly, I shall throughout, deal with what is most to purpose any where in this <hi>Discoverer</hi>'s First Part (and do wish for no better <hi>Quarter</hi> than I give) As for <hi>himself,</hi> seriously, he is a man of litle Conscience, no Shame, That he can write <hi>THE COƲNCEL OF STATE, To all the wel-affected People of this Nation.</hi> And, <hi>We take our selves bound in obedience to God, and [trust to the Nation] &amp;c.</hi>
+            </p>
+            <p>Moreover, <hi>This being so, and [a thing well known to us] we have thought it necessary to afford [our encouragement and fur<g ref="char:EOLhyphen"/>therance.]</hi> And all the while, a contemptible, mean-bred, de<g ref="char:EOLhyphen"/>cayed <hi>Parson</hi> doth it.</p>
+            <p>Further, I am constrained to <hi>suppose</hi> these men <hi>the Authors</hi> of several Books (which, <hi>Heaven</hi> knows, and not <hi>I,</hi> whose they be) not declared to be theirs; through the importune attribution of that Author, and Others: which told you, I go on with.</p>
+         </div>
+      </front>
+      <body>
+         <div type="pamphlet">
+            <pb n="3" facs="tcp:172843:2"/>
+            <head>The DISCOVERER, ƲNCOVERED.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Vt it is not <hi>Treason</hi> to speak against <hi>Tyranny, Arbitrary power, Taxes, Oppressions,</hi> though such speech may be made use of to make <hi>Commotions, &amp;c.</hi> and possibly hath been improved hereto within these half-score yeers: Yet, I wot, not by <hi>them,</hi> who <hi>cald on the People (at home, and somewhere abroad) to joyn with them against Robbers, Rebels, Murderers; for the settlement of this Common-wealth, &amp;c.</hi>
+            </p>
+            <p>To step forwards, and see if the men named (M. <hi>Walwyn,</hi> Lievt. Col. <hi>Lilburn,</hi> M. <hi>Prince,</hi> and M. <hi>Overton</hi>) by the <hi>Discoverer,</hi> hide mischief under it.</p>
+            <p>First, In the <hi>General Discovery,</hi> its said,
+<note place="margin">Discoverer.</note>
+               <hi>They seek to have the people dis-affected towards the present Government and Governors, as if the Parliament might and could ease them of Tythes, Excise, Free-Quarter, &amp;c. and will not.</hi>
+            </p>
+            <p>
+               <hi>Vindication.</hi> But prove me that <hi>(John,)</hi> that <hi>these men seek to dis-affect the People towards the present Government.</hi> You vapour in the Title, That here <hi>things are cleerly demonstrated, by reason, and proof abundantly.</hi> Where's this demonstrated? —Well, to stay us, <hi>He saith</hi> [the Accusation.]</p>
+            <p n="1">(1) <hi>Its false.</hi>
+               <note place="margin">Discoverer.</note>
+               <hi>For the Parliament hath declared there shall ly upon the people no burden which they possibly can remove; And likewise its their daily study, &amp;c.</hi> And could he not say, <hi>its likewise their endeavour?</hi> I would fain have seen this <hi>done.</hi>
+            </p>
+            <p n="2">2. <hi>If men would but consider in what a Condition we are, &amp;c.</hi>
+               <note place="margin">Discoverer.</note>
+               <hi>they would not blame the Parliament, &amp;c.</hi> Prithee! in what a <hi>Condition</hi> are we, that yet <hi>we cannot be otherwise, nor remedied?— Consider, &amp;c.</hi> for I don't tell you.</p>
+            <p>Further:
+<note place="margin">Discoverer.</note>
+               <hi>It</hi> (saith he) <hi>can be proved (if need be) that the Land is put to</hi> 100,000 lib. <hi>yeerly charge by their means.</hi>
+            </p>
+            <p>
+               <hi>Vind.</hi> A way with you; here is <hi>need of proof,</hi> and is none: thou art all <hi>Can,</hi> and <hi>emptie: soundest,</hi> but not <hi>satisfiest.</hi>
+            </p>
+            <p n="2">(2) <hi>Its Treacherous.</hi>
+               <note place="margin">Discoverer.</note>
+            </p>
+            <p n="1">1 <hi>They Conspire against the Supream Authority, stir up the People. &amp;c. Vid p.</hi> 14. <hi>of the Picture of the Councel of State.</hi> 2 <hi>A Declaration of the Free Commoners of England.</hi>
+            </p>
+            <pb n="4" facs="tcp:172843:3"/>
+            <p>
+               <hi>Vind.</hi> Here <hi>(Reader)</hi> he takes it for granted, that these 4 men (praenominated) and their Party (for a melancholy conceit hath possest the mans heart, and he talks idley of the designs of a Party) did write the Papers mentioned: and that you are already opinio<g ref="char:EOLhyphen"/>nated that such wrote them. For you shall not here be convin'd thereof, or have them proved to be so. However, <hi>the former quo<g ref="char:EOLhyphen"/>tation</hi> shall be cleered <hi>(infra)</hi> when speak to 4th Particular, <hi>p.</hi> 22. <hi>The Latter</hi> is not theirs: one <hi>Protest</hi> therein is, <hi>Against these mens imprisonments, &amp;c.</hi>
+            </p>
+            <p n="2">2 <hi>They give out reproachful terms,</hi>
+               <note place="margin">Discoverer.</note>
+               <hi>against men in Authority (and this is</hi> 4, <hi>a State-destroying Stratagem</hi>) the <hi>Picture, p.</hi> 14. 17 and the <hi>Declaration.</hi>
+            </p>
+            <p>
+               <hi>Vind.</hi> The <hi>Latter</hi> Paper is not theirs, and the quotation in the <hi>Former</hi> shall in another place cleer.</p>
+            <p n="3">3 <hi>Their proofs are light and few.</hi>
+               <note place="margin">Discoverer.</note> This, the Discoverer saith he shall shew <hi>hereafter.</hi>
+            </p>
+            <p>Discov. p. 7. <hi>In the last place oqserve what they say</hi> [Manife<g ref="char:EOLhyphen"/>station p. 8.] <hi>Could we have had any assurance that what is desired should have otherwise, or by any have been done; and had not had some taste of the relinguishment of many good things that were pro<g ref="char:EOLhyphen"/>mised, we should not have been so earnest and urgent for the doing thereof: To which we Answer,</hi>
+            </p>
+            <p n="1">1 <hi>Their Freedom and Power hath been but a litle while in their hands:</hi> (and they have <hi>since</hi> dene nothing less <hi>necessary</hi> than these: should have been added, should it not?)</p>
+            <p n="2">2 <hi>For the many good things they speak of, we shall shew by and by what they are.</hi>
+            </p>
+            <p n="3">3 <hi>Sometimes haste makes waste</hi> (and so (believe it) it would of these <hi>many good things.</hi>)</p>
+            <p>Secondly,
+<note place="margin">Discoverer.</note> The <hi>Particular Discoverey.</hi>
+            </p>
+            <p n="1">1 <hi>Of Hypocrisy in their speeches.</hi>
+            </p>
+            <p>
+               <hi>Vind.</hi> Here come in for the 1, 3, 4, 5. Particulars, <hi>Quotations</hi> from the writings of one, known to be n'one of these Four.</p>
+            <p>And for ch. 2 a Quotation <hi>from a writing of one of them,</hi> which this very <hi>Concealer</hi> of himself, Printed at <hi>Amsterdam</hi> (where if he dar'd stay, we had not been now troubled with him here. <hi>per. Advise</hi> from M.C.) This kind of dealing is as like if cursed <hi>Achi<g ref="char:EOLhyphen"/>tophel,</hi> after he occasioned <hi>Absalom</hi>'s going-in to his Fathers
+<pb n="5" facs="tcp:172843:3"/>
+               <hi>Concubines,</hi> (2 <hi>Sam. XVI.</hi>) upon the top of the house, had been the teller of it to all the People, and said, he did it <hi>to undeceive the Nation.</hi>
+            </p>
+            <p n="6">6. <hi>Of their Atheisme and Anti-scripturisme, or little better.</hi>
+               <note place="margin">Discoverer.</note>
+               <hi>That they are men who regard not God, neither the Scriptures, nor any Religion; it may be cleerly seen by the Agreement of the Peo<g ref="char:EOLhyphen"/>ple, which they call the Standard and ultimate scope of their De<g ref="char:EOLhyphen"/>signes. Amongst all theor Proposals and Articles</hi> (30 <hi>at least) there is not one thing proposed for the holding forth and furtherance of Gods publike worship and service.</hi>
+            </p>
+            <p>
+               <hi>Vind.</hi> That their <hi>Omission</hi> of such an <hi>Article,</hi> among <hi>Propo<g ref="char:EOLhyphen"/>sals for the Government of this Nation</hi> must argue nothing less, or <hi>little better</hi> than <hi>that they are men who regard not God, neither the Scriptures, nor any Religion,</hi> wants ground. That they are neither <hi>Atheists,</hi> nor <hi>Anti-Scripturists,</hi> their <hi>Manifestation</hi> (in p. 6.) doth sufficiently manifest. And that they are as regardful (as men are of the Apples of their Eyes, which they'l let none touch) of <hi>Religion,</hi> and <hi>Faith;</hi> of the <hi>Confession</hi> of the one, and the <hi>Practise</hi> of th'other; The x. head of their <hi>Agreement</hi> doth luculently declare; Where its <hi>Articled,</hi> that <hi>Representatives shall not restrain any person from</hi> PROFESSION OF HIS FAITH, <hi>or</hi> EXERCISE OF RELIGION, <hi>according to his Conscience.</hi>
+            </p>
+            <p n="2">2. <hi>Of their good things proposed.</hi>
+            </p>
+            <p>Disc. 1. <hi>They will have Tythes taken away.</hi>
+               <note place="margin">Discoverer.</note>
+               <hi>It is well</hi> (read Phil. I. 16.) BVT &amp;c. (wicked <hi>Ahab</hi>-like I King. XXII. 8. and I Chron. XVIII. 7.)</p>
+            <p n="2">2. To their <hi>Expressions</hi> concerning <hi>Levelling.</hi> He saith, <hi>Note, They grant the thing lawful in it self. &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Vind.</hi> And Note, They <hi>Profess</hi> (1.) They <hi>never had it in their thoughts &amp;c. And</hi> (2.) <hi>to attempt an inducing the same is most injurious [unless there did praecede an universal assent thereunto from ALL, and every one of the People</hi> (as there did from all and every on of the <hi>Believers. Act.</hi> II. <hi>v.</hi> 44, 45. and Cap. IV. 32, 33, 34, 35.) which you may expect the <hi>day after Dooms day.</hi>
+            </p>
+            <p>Disc. But, saith he,
+<note place="margin">Discoverer.</note>
+               <hi>ALL must be understood</hi> [restrictively] <hi>that is the Poor Commoners &amp;c. For rich men, &amp;c. they Protest against for having exercised Tyrannie, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Vind.</hi> O the extremity of this mans malice! —where, when
+<pb n="6" facs="tcp:172843:4"/>said these men thus? Why must they be so understood? —!—!</p>
+            <p>Reader, You saw their serene <hi>Vindication</hi> from this in p. 4, 5. of <hi>Manifestation.</hi>
+            </p>
+            <p>Here he would make their <hi>Levelling-Designe</hi> apparent.</p>
+            <p n="1">1,
+<note place="margin">Discoverer.</note> 3, 4, 5 6ly, By Sentences fetcht from Books not writ by either of them.</p>
+            <p n="2">2. By ones writing it, <hi>A Tyrannical Ʋsurpation of Lords to lay Fines and other Services upon their Tenants, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Vind.</hi> One would think while they allow one the <hi>Lord,</hi> and call th'other, <hi>Tenant,</hi> we need not fear such a Design: the plain contrary is spoken. Notwithstanding the Discoverer should have proved the <hi>Fines, &amp;c. righteously</hi> laid, while he denied them <hi>Ʋ<g ref="char:EOLhyphen"/>surpationes.</hi>
+            </p>
+            <p n="3">3ly.
+<note place="margin">Discoverer.</note>
+               <hi>They make Divisions.</hi>
+            </p>
+            <p n="1">1 <hi>They stir up the People every where against the Army;</hi> (And how proves he this?) <hi>One</hi> of them <hi>saith, The Faction of a Trea<g ref="char:EOLhyphen"/>cherous Party of Officers in the Army, hath twice Rebelled against the Parliament, and broken them to peices.</hi>
+            </p>
+            <p>
+               <hi>Vind.</hi> And what's this to purpose? where is that <hi>saying</hi> where<g ref="char:EOLhyphen"/>in <hi>they stir up the People against the Army?</hi> 2 Is a <hi>Party of Offi<g ref="char:EOLhyphen"/>cers</hi> the <hi>Army, &amp;c?</hi>
+            </p>
+            <p n="2">2 <hi>They have been busie to raise Sedition and Mutiny amongst the Souldiers.</hi>
+               <note place="margin">Discoverer.</note> For this he brings,</p>
+            <p n="1">1) A Quotation from p. 12. of <hi>Juglers Discovered;</hi> whereas there be but 11 pages in all; and I have read so much in the Book (which otherwise I had not) as is in p. 10 and 11, and must needs return a <hi>Non est inventa.</hi>
+            </p>
+            <p n="2">2) A quotation from p. 9. of <hi>English Souldiers Standard,</hi> which bears no bodies name but Mr <hi>William Thomson's</hi>
+            </p>
+            <p n="3">3) A quotation from p. 9. of <hi>Bloudy Project</hi> (he saith, its Mr <hi>Walwyn's</hi>) which would not have them <hi>swayed by,</hi> but <hi>forsake the Covetous, Proud, Bloud-thirsty, &amp;c.</hi> A notable <hi>Mutinous, Sedi<g ref="char:EOLhyphen"/>tious, Trayterous saying</hi> no doub! judge of it.</p>
+            <p n="3">3 <hi>Their next work is to continue and encrease this Mutiny.</hi>
+               <note place="margin">Discoverer.</note>
+            </p>
+            <p n="1">1) <hi>By Commending and Justifying the Seditious Souldiers.</hi>
+            </p>
+            <p>
+               <hi>Vind.</hi> Its easier to this man to call these Souldiers such, than to prove them so: He freely doth the former: let's us go look (for <hi>him</hi>) after the latter.</p>
+            <pb n="7" facs="tcp:172843:4"/>
+            <p n="2">2 <hi>By urging and instigating fellow-Souldiers to take revenge upon their Commanders when others are justly punished for Muti<g ref="char:EOLhyphen"/>ny,</hi> Standard p. 8.
+<note place="margin">Discover.</note>
+            </p>
+            <p>
+               <hi>Vind.</hi> What's spoken there, is of the <hi>severe,</hi> and <hi>painful punish<g ref="char:EOLhyphen"/>ments,</hi> for <hi>small offences,</hi> inflicted on <hi>Private Souldiers:</hi> whilest an <hi>Officer</hi> turns a <hi>Bear, a Wolf,</hi> a <hi>Tyrant,</hi> and is <hi>not punished.</hi>
+            </p>
+            <p n="3">3 <hi>By perswading th' Army; that there is now no Martial Law:</hi>
+               <note place="margin">Discoverer.</note>
+               <hi>And wherefore? but, that, when they have wrought Sedition, and Treason in the Army, there may be no means, course, or way found out for to stop the breach, till all be lost, scatred and destroyed.</hi>
+            </p>
+            <p>
+               <hi>Vind.</hi> An harsh Censure, and Calumnious: Its too grosse a peece of folly for these men to be guilty of. If other, <hi>ordinary means</hi> (Common Law) will do it, would but <hi>men</hi> make <hi>their work,</hi> to hinder a course <hi>extraordinary?</hi>
+            </p>
+            <p>How-ever this man hath spoke out too, a strange amendment in our Laws, and Law-givers; in our Courts of Judicatory, and Judges, &amp;c, That if <hi>Treason be wrought in the Army,</hi> it can by no means be <hi>stopt</hi> till all be <hi>lost,</hi> save by the way of <hi>Martial Law;</hi> if this <hi>Fire</hi> be there, it cannot be <hi>quenched</hi> (till all be con<g ref="char:EOLhyphen"/>sumed) unless by <hi>such water.</hi>
+            </p>
+            <p>Here the <hi>Discoverer</hi> tels us, <hi>They understand not what Marti<g ref="char:EOLhyphen"/>al Law, is.</hi> Now, one is ready to think <hi>himself</hi> (the <hi>Discoverer) doth,</hi> and is apt to instruct them who <hi>if they understood what it is, would not speak so ignorantly, &amp;c.</hi> (as himself there speaks) now, What saith he? <hi>Martial Law is grounded upon pure reason, &amp;c.</hi> — Pish! none can understand by this, any thing of the nature of <hi>Martial Law,</hi> as its different from the <hi>Cannonical, Common, &amp;c.</hi> Prithee, tell, What <hi>is</hi> this <hi>Martial Law,</hi> which is grounded upon, &amp;c? What's the <hi>formalis ratio</hi> of it? — mum. Poor man! Let us take time, and go and ask; either, our <hi>Masters</hi> can informe us; Or, their <hi>Patients</hi> (in some measure) tell us; Or, (in Troth) it will no whit concern us.</p>
+            <p n="4">4ly.
+<note place="margin">Discoverer.</note>
+               <hi>Those whom they have hitherto acknowledged to be the Su<g ref="char:EOLhyphen"/>pream Authority of England, they now deny; and title, The Gentle<g ref="char:EOLhyphen"/>men sitting at Westminster.</hi>
+            </p>
+            <p>
+               <hi>Vind.</hi> For <hi>Vindication,</hi> Observe, 1 That the page cited, is not <hi>positive, assertive;</hi> but made up of <hi>Quaeries.</hi> 2 What's spoken, is upon the <hi>Supposition,</hi> that <hi>they are a mock-Parliament (as some
+<pb n="8" facs="tcp:172843:5"/>of the chiefest amongst themselves</hi> (saith the Author of that <hi>Picture) stil'de it.</hi>
+            </p>
+            <p n="5">5ly.
+<note place="margin">Discoverer.</note>
+               <hi>They have sought by false Suggestions to set strife and di<g ref="char:EOLhyphen"/>vision between his Excellency, and the chief Commanders of the Army, in publishing to the world that the General is their stal<g ref="char:EOLhyphen"/>king-horse, and a Cipher, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Vind.</hi> It <hi>imports the affirmer</hi> (and not the 3 other Gentlemen) <hi>to prove it.</hi> Now, put him to it, and he will <hi>speak for himself,</hi> Ju. IX. 21. 2 Its directly spoken to those <hi>under Command,</hi> (vid. line 2 of the <hi>Quaere</hi>) not to the <hi>General, &amp;c.</hi> and (its true) that man who <hi>reports</hi> it to the <hi>Party;</hi> or, presents this to the <hi>General,</hi> comes neerer <hi>to make strife, division.</hi>
+            </p>
+            <p n="6">6ly.
+<note place="margin">Discoverer.</note>
+               <hi>They have sought to make discord between the Parliament and Councel of War, by a subtile and dangerous Stratagem; name<g ref="char:EOLhyphen"/>ly, That the Parliament should appoint a Committee of their own Members, to hear, examine, and conclude all Controversies be<g ref="char:EOLhyphen"/>tween Officers and Officers, and between Officers and Souldiers.</hi>
+            </p>
+            <p>
+               <hi>Vtnd.</hi> He must be of <hi>a jealous eye</hi> that will say he sees such a (subtile) Design here. <hi>The Parliament hath formerly had a Com<g ref="char:EOLhyphen"/>mittee of their own Members residing with the Army;</hi> And what better imployment they could there have, than concluding Con<g ref="char:EOLhyphen"/>troversies amongst them, bringing them to Agreement, and ma<g ref="char:EOLhyphen"/>king peace there, <hi>Nescio.</hi>
+            </p>
+            <p n="7">7ly. <hi>In the Declaration of the Free Commoners, &amp;c. there is Re<g ref="char:EOLhyphen"/>bellion protested and declared.</hi>
+            </p>
+            <p>
+               <hi>Vind.</hi> In what <hi>words</hi> I pray? — I forbear. That <hi>Declar:</hi> is none of the four mens.</p>
+            <p>Next he comes to observe,
+<note place="margin">Discoverer.</note>
+               <hi>What they say of others,</hi> and</p>
+            <p n="1">1. <hi>They complain</hi> (in the first part of <hi>New Chain,</hi> which is not proved theirs) <hi>against erecting a high Court of Justice for Tryal of criminal causes.</hi> To which he answers,</p>
+            <p n="1">1. <hi>They mention it for no other end, but to flatter Malignants,</hi> &amp;c.</p>
+            <p>
+               <hi>Vind.</hi> An untoward, most base surmise, rather slander, to them who are elongated so many measures (more than many) from the malignant party, as himself hath past to approach it, and joyn hands to bring unto dishonour, these (I doubt not) well-affected, true-hearted English-men.</p>
+            <p n="2">2.
+<note place="margin">Discoverer.</note>
+               <hi>They speak of persons pickt and chosen, as an usual policy to
+<pb n="9" facs="tcp:172843:5"/>introduce (by such means) all usurpations.</hi> Answ. <hi>Herein they discover great uncharitableness, and extreme malice.—We are to interpret things in the best part.</hi>
+            </p>
+            <p>
+               <hi>Vind.</hi> Where is the <hi>Ʋncharitableness,</hi> where the <hi>extreme ma<g ref="char:EOLhyphen"/>lice discovered?</hi> Said they that <hi>the Parliament did it to introduce &amp;c?</hi> No. The <hi>Affirmative</hi> is yours, by <hi>construction.</hi>
+            </p>
+            <p n="3">3. <hi>They do see the way of tryal by</hi> 12. <hi>men,</hi>
+               <note place="margin">Discoverer.</note>
+               <hi>to be a Constitution so equal, &amp; just, as that they conceive it ought to remain unalterable.</hi>
+            </p>
+            <p>Answ. 1. <hi>What if there should be</hi> 13. <hi>or</hi> 30. <hi>or more, or less, were it not as well, and just?</hi>
+            </p>
+            <p>
+               <hi>Vind.</hi> But what if they shall not be <hi>of the Neighborhood,</hi> nei<g ref="char:EOLhyphen"/>ther <hi>Sworn?</hi> will it be as <hi>well, and just?</hi>
+            </p>
+            <p>Answ. 2. <hi>In other Countries for tryal of Criminal Causes,</hi>
+               <note place="margin">Discoverer.</note>
+               <hi>their Proceeding is not by</hi> 12. <hi>sworn men, but otherwise, and yet equal, and just in it self.</hi>
+            </p>
+            <p>
+               <hi>Vind.</hi> Who deny's it? But what Reason we should alter what's our own way, and (no doubt, Never any was so simple as to say, its not) <hi>better?</hi> though th'others prove good.</p>
+            <p>Answ. 3. <hi>The Parliament made choise of able, judicious,</hi>
+               <note place="margin">Discoverer.</note>
+               <hi>and conscientious men, and called many such together, to th'end they might proceed legally, &amp;c. therefore they speak evil of them.</hi>
+            </p>
+            <p>
+               <hi>Vind.</hi> THEREFORE &amp;c. How deep he works? He's enter'd their Hearts. As St <hi>James</hi> saith Cap. II. v. 4. he becomes <hi>a Judge of evil thoughts. And who art thou that judgest another?</hi> Cap. IV. 12.</p>
+            <p n="2">2) <hi>They complain for censuring a Member of the House for de<g ref="char:EOLhyphen"/>claring his judgement in a point of Religion.</hi>
+               <note place="margin">Discoverer.</note>
+            </p>
+            <p>Answ. 1. <hi>What the Parliament did in this thing, it was upon that ground— all occasions of discord ought altogether to be ta<g ref="char:EOLhyphen"/>ken away.</hi>
+            </p>
+            <p>
+               <hi>Vind.</hi> We man notwithstanding ask this Discoverer, 1. How he can tell this? and 2. Whether the Parliaments taking cogni<g ref="char:EOLhyphen"/>zance of two Members private discourse about matters contro<g ref="char:EOLhyphen"/>versal, be a likely meane to take away discord? not, to create amongst them all, difference? 3. Whether the <hi>Member censu<g ref="char:EOLhyphen"/>red,</hi> was not upon such <hi>a ground,</hi> as here is mentioned, <hi>called in again?</hi>
+            </p>
+            <p>Answ. 2.
+<note place="margin">Discoverer.</note>
+               <hi>For the Reserve in the Agreement concerning Reli<g ref="char:EOLhyphen"/>gion</hi>
+               <pb n="10" facs="tcp:172843:6"/>(to which its said this is directly opposite) <hi>If they mean that the Parliament hath agreed that any blasphemous and heretical doctrine shall be propounded, and defended in the House, We know no such thing: neither do we know what Reason that Member had, to speak there what he did, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Vind.</hi> The words were not spoken <hi>there,</hi> or <hi>in the House,</hi> till <hi>reported</hi> &amp;c. (this <hi>Discoverer</hi> hath taken up very weak reports.) To know the Truth, I did procure an <hi>honest friend</hi> of mine, and one that's acquainted well with Col. <hi>Downe</hi> (and much honours him) to step to his Lodging, and enquire here-anent; and he re<g ref="char:EOLhyphen"/>turned with, as I said.</p>
+            <p n="2">2. There is a book of the <hi>Censureds</hi> extant, containing a <hi>Nar<g ref="char:EOLhyphen"/>rative</hi> of this business. And wherein somthing is said to <hi>Ventilate the contrary Opinion.</hi> Read it, and then judge.</p>
+            <p n="3">3. Its without controversie, that the <hi>suspension</hi> was <hi>directly op<g ref="char:EOLhyphen"/>posite to the Reserve in the Agreement,</hi> according to the native, common, and Grammatical sense. The words are these.</p>
+            <p>
+               <hi>That such as profess faith in God by Jesus Christ (however dif<g ref="char:EOLhyphen"/>fering in judgement from the doctrine, worship, or discipline pub<g ref="char:EOLhyphen"/>likely held forth as aforesaid) shall not be restrained, but shall be protected in the profession of their faith, and exercise of Religion, according to their Consciences, in any place, &amp;c.</hi> Yet, I shall add, that I know not whether the <hi>Parliament</hi> ever yet <hi>agreed</hi> to it.</p>
+            <p>Answ.
+<note place="margin">Discoverer.</note> 3. <hi>Note what Englands new Chaine is, &amp;c. Because the Parliament will not countenance Blasphemy, &amp;c. they cry out Tyrants &amp;c. Indeed this is the great and grand business, Religion, and Orthodox Doctrines, are not (as they desire, and seek for) utter<g ref="char:EOLhyphen"/>ly cast off and rejected.</hi>
+            </p>
+            <p>
+               <hi>Vind.</hi> I may not say the Parliament doth countenance <hi>blasphe<g ref="char:EOLhyphen"/>my,</hi> because they admit amongst them, those that hold such an <hi>o<g ref="char:EOLhyphen"/>pinion.</hi> But such a man as the <hi>Discoverer</hi> may say (narmlesly) <hi>to reject</hi> them, is <hi>not to countenance them:</hi> And, for the Writers of the <hi>New Chaine</hi> to complain against <hi>casting-out</hi> upon such terms, is to complain, because <hi>Religion and Orthodox Doctrines are not cast off:</hi> which hath necessary <hi>consequences</hi> of like tendency with the former. But, (thou sink of filth) how knowest thou <hi>they De<g ref="char:EOLhyphen"/>sire?</hi> When, or where did they <hi>seek for the rejection of Religion, &amp;c? — (whose damnation is just.</hi> Rom. III. 8.</p>
+            <pb n="11" facs="tcp:172843:6"/>
+            <p n="3">3) <hi>The third thing which hath brought England into New Chains, is the Act for Pressing of Sea-men,</hi>
+               <note place="margin">Discoverer</note>
+               <hi>directly contrary to Agreement of the Officers. pa.</hi> 22.</p>
+            <p>Answ. 1. <hi>There is no Law so firmly made (much less an Agree<g ref="char:EOLhyphen"/>ment of Officers) but when the Peoples safety, and necessity require, may lawfully be changed—This was the Parliaments case, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Vind.</hi> Had this <hi>necessity</hi> been made appear to them; we can<g ref="char:EOLhyphen"/>not but hold out, that these men would not have so much as Ar<g ref="char:EOLhyphen"/>ticulated one sillable, pend one Jod of complaint against it.</p>
+            <p>Answ. 2. <hi>They speak against it, and cry out New Chains, &amp;c.</hi>
+               <note place="margin">Discoverer.</note>
+               <hi>And why all this? But to make the Sea-men mutinous and sedi<g ref="char:EOLhyphen"/>tious, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Vind.</hi> How he <hi>interprets things in the best part?</hi> — I remem<g ref="char:EOLhyphen"/>ber, now, this is a <hi>Rule</hi> he layes down for <hi>others.</hi> And because he askes the <hi>Question,</hi> I'le answer, <hi>Why all this?</hi> but, <hi>to cleer what's right, and stand to it.</hi>
+            </p>
+            <p n="4">4) <hi>They tell us they want Freedom, and are in Chains,</hi>
+               <note place="margin">Discoverer.</note>
+               <hi>because the Parliament stops their mouths from Printing.</hi>
+            </p>
+            <p>Ans. 1 <hi>They would have the State to stand still, and suffer them, with their Seditious, and scandalous Libels to strik them, as often as they please, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Vind.</hi> They would not be <hi>stopt from speaking Truth,</hi> and <hi>Dis<g ref="char:EOLhyphen"/>covering the Tyrannies of bad men</hi> (as it follows in that place.) And this Sycophant hath invented wicked thought, (which never entred their guile-less Souls) and foisted them here; in confort with those slanderous ones, which un-worthy great men in their several <hi>daies</hi> have had their earthly upholders to coyn; and impose on such sincere, spirited men as their fearful hearts suggested (and that truly) to be dislikers of their exorbi<g ref="char:EOLhyphen"/>tancies, studiers of Common safety, and couragious for the Cause of the Oppressed, &amp;c.</p>
+            <p>Answ. 2 <hi>Such as prescribe remedies against Conspiracies,</hi>
+               <note place="margin">Discoverer.</note>
+               <hi>give this as the first, and Principal, namely, To prevent, and cut off (if possible) the occasion, that it may not break forth, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Vind.</hi> Wherefore serves this? — We are at a loss (Reader) and cannot tell whereat he strik's, unless wee'l (to pleasure him, and comply with his unmanly immagination) <hi>opinar,</hi> conceit <hi>a Conspiracy</hi> among these men, forenamed. Which, for me to do,
+<pb n="12" facs="tcp:172843:7"/>were (I protest before the God above) as to obstruct my sight, by erecting in the way of light, one of the most grosse <hi>Media's</hi> devise-able, cald, <hi>Prejudice.</hi>
+            </p>
+            <p>Ans.
+<note place="margin">Discoverer.</note> 3 <hi>Men who have acted by the principles of reason, and nature, have always bin careful to stop the publishing of seditious books &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Vind.</hi> And that these mens Books are such, pray <hi>Credit,</hi> for he can't <hi>lay it down.</hi>
+               <note place="margin">Discoverer.</note>
+            </p>
+            <p n="4">4) <hi>Whereas they would help themselves by mentioning</hi> Staple<g ref="char:EOLhyphen"/>ton, Hollis, &amp;c. <hi>Its a Sophisme, &amp;c. because</hi> Pilate <hi>did not well in Condemning Christ, therefore he did ill to Condemne the Theeves.</hi>
+            </p>
+            <p>
+               <hi>Vind.</hi> Following his <hi>termes,</hi> he hath lost the <hi>Sence.</hi> These men argued not the Ordinance [ill] because <hi>made in the time of</hi> Stapleton, &amp;c. but [the worse] the <hi>more severe, and unreason<g ref="char:EOLhyphen"/>able,</hi> when hightned wrath rose up terribly, to quash even all, but Royallists; and at last <hi>Petitioners</hi> for <hi>Peace.</hi>
+            </p>
+            <p n="5">5) <hi>We suppose they will now object no more against the Parlia<g ref="char:EOLhyphen"/>ment for imploying that Apostate Judas (M.</hi>
+               <note place="margin">Discoverer.</note> Haiden) <hi>as an Exe<g ref="char:EOLhyphen"/>cutioner to search after un-licensed Books, seeing themselves have done execution upon him, murdered him in a most barbarous, and cruel manner, and secretly</hi> (saith the <hi>Margent.</hi>)</p>
+            <p>
+               <hi>Vind.</hi> I can think this man will not lay <hi>Haidens</hi> death to these 4 mens Charge. Its deep; and can the <hi>Levellers</hi> go off with good report? lets hear. Mr <hi>Thomson</hi> (a man whose death was lately purchased at a deer rate) attending (on a Saturday) a Prin<g ref="char:EOLhyphen"/>ting-press without Cripple-gate, <hi>Haiden</hi> comes in with two men, and layes hands on some Papers, which <hi>T.</hi> resolved he should leave behind him. Now <hi>H.</hi> opposing, <hi>T.</hi> draws his dagger, and pricks <hi>H.</hi> in the arme neer the shoulder, and afterwards turns him out: after which, <hi>H.</hi> goes and procures some files of Mus<g ref="char:EOLhyphen"/>quetiers, and went to look for Books at Mr <hi>Larnars,</hi> where (after many reaks plaid) he brings down their narrow stairs such bundls of Books in quires, under his armes, as would require a mans strength to carry, &amp;c. Then, Sunday-night he goes to M. <hi>Paines,</hi> and then brake all his <hi>Presses</hi> (of great value) to peeces, &amp;c. But (to cut short) till Munday he had not his wound drest, (though the Marshal-General, oft urged him to it) and after that he lived about a month (after his <hi>most barbarous and cruel murdering</hi> by the <hi>Levellers</hi>) and then died that infamous Villaine, (with <hi>the mark of a Rogue</hi> in his hand.)</p>
+            <pb n="13" facs="tcp:172843:7"/>
+            <p>And further to satisfie thee, Reader, nextly take the Coppy of a Paper which I remember I saw pasted-up upon Postes, Gates, and observable Places concerning him.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="proclamation">
+                        <head>At a COVRT MARTIAL of his Excellency, the Lord General, held at <hi>White-Hall,</hi> the 9th of <hi>March</hi> 1648.</head>
+                        <p>
+                           <hi>THat whereas one</hi> John Haiden <hi>hath of late been imployed by some members of the Army, in some particular Services; especially, for suppressing of scandalous Books and Pamphlets; and upon pretence thereof, Information is credibly given, that he hath committed many Insolencies, and Misdemeanors of high nature, to the dishonour of the Army, contrary to the Trust reposed in him, to the great and insufferable damage of several people. These are therefore to signifie, That this Court doth disclaime any Act, or Thing that he hath so done, upon any pretence of Authority from any Member of the Army whatsoever. And all Souldiers are to take notice hereof, That they give not any Aid or Assistance unto him, upon pretence of any Warrant or Information of what nature soever.</hi>
+                        </p>
+                        <closer>
+                           <signed>HENRY WHALLEY, <hi>Advocate.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>And here he tells us of an <hi>Atheistical, and Hellish Counsel,</hi>
+               <note place="margin">Discoverer.</note>
+               <hi>suggested by Walwyn, to a woman lying under a sore and heavie Temptation,</hi> to lay hands on self. Its a Transcript of what is in that <hi>stream of slander,</hi> termed <hi>Walwyns wiles.</hi>
+            </p>
+            <p>
+               <hi>Vind.</hi> A sore and heavie charge (God deliver me)— But (hearken! a whisper) is it true? <gap reason="blank" resp="#oxf" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> your ear. <hi>You must not lightly credit evil reports &amp;c. — For— To question it speaks out the like to the unpardon<g ref="char:EOLhyphen"/>able sin, Infidelity.</hi> Yet (honest soul!) lend a little <hi>bear (the Sabatical, perfect, blessed number of)</hi> 7 <hi>Church-men sub<g ref="char:EOLhyphen"/>scribe that Book, and he who seeth the secrets of darkness can tell, how many of the sodality will</hi> (pray hold them not for <hi>Pu<g ref="char:EOLhyphen"/>ritanes) take their oaths of it.</hi>—I am at a stand—Give me leave to suspend judging, till some friends be enquired of, who in all likely-hood, its more than probable, know the Truth of the story.</p>
+            <p>The Gentle-womans tender <hi>Husband,</hi> loving <hi>Sisters,</hi> and deer <hi>Son</hi> (to whom the remembrance of the fact is no small grief) an<g ref="char:EOLhyphen"/>swer, <hi>They never heard of any such suggestion, till this (grievous) book came forth; And good cause they have to think such words
+<pb n="14" facs="tcp:172843:8"/>never were spoken by the Gentle-man named. A special Instrument (in the hand of God) was he to the spinning forth her life so long, by his prevailing consolations, instructions, &amp;c,</hi> after he under<g ref="char:EOLhyphen"/>stood her distemper, which he was ignorant of, till the doleful ty<g ref="char:EOLhyphen"/>ding of this good Womans desperate <hi>casting her self into Water</hi> made him know it, as appeared even by his mode of telling the news thereof, when he came to home. And (for my part) I think its improbable he hath such an Opinion, Because when he might opportunely have discoursed thereof, he was silent, <hi>viz.</hi> when our friend Mr <hi>W. R. (amicus non emultis)</hi> and I, walking in his Company along Moor-fields, talkt thereof, upon occasion of Mr <hi>W. R.</hi> having borrowed from me that Discourse of <hi>Suicide,</hi> entituled BIAOANATOS.</p>
+            <p>And the <hi>Penner</hi> of that <hi>Wily</hi> stream of slander (presents it like an un-cloakt naked falsity) hath cautelously omitted the delivery of any <hi>circumstances</hi> anent the same, with which, if this had bin clothed, doubtless one or other, some man or woman could have bin found out (without descending into the Abysse, or applying to the Heavens) to have attested they knew the speaking of them, and have told us the <hi>Place</hi> WHERE, the <hi>Company</hi> IN WHICH, the <hi>Occasion</hi> WHEREVPON, one <hi>Time</hi> or other (of <hi>oftentimes</hi>) WHEN, such words were <hi>spoken,</hi> or ought <hi>suggested to this purpose.</hi>
+            </p>
+            <p>As to the Scribe who wrote that pacht, Soloecismatical Trea<g ref="char:EOLhyphen"/>tise, he's unlike a <hi>Reformist,</hi> (and therefore I think him none of the <hi>Subscribers.</hi> For they are at least <hi>Independents.</hi> I use not the Name in <hi>Odium,</hi> but <hi>distinctionis gratia.</hi>) saying p. 24. <hi>You shall find these mens Petitions spirited with such PROVOCATIONS</hi> as these; <hi>The Magistrates must have no power to impress, or con<g ref="char:EOLhyphen"/>strain the People to Armes by Sea, or Land, &amp;c.— Taking away the Ministers maintenance under the name of Tythes, &amp;c— Pre<g ref="char:EOLhyphen"/>tending the uselesness of Lawyers in a Common-wealth.</hi>
+            </p>
+            <p>Whereas, the <hi>Grand Reformers</hi> in the <hi>Agreement,</hi> say p. 22. <hi>We do not impower them to imprest, or constrain any person to serve in Forraign War, by Sea, or Land; Nor for any Military Ser<g ref="char:EOLhyphen"/>vice within the Kingdom, &amp;c.</hi> And in the <hi>Declaration</hi> of the said <hi>General, and general Officers concerning it,</hi> p. 29. <hi>The taking a<g ref="char:EOLhyphen"/>way of Tythes, &amp;c.</hi>— And in the same page, <hi>Putting all the Laws, and the Proceedings thereof, into the English Tongue.</hi> And Mr
+<pb n="15" facs="tcp:172843:8"/>
+               <hi>Hugh Peters,</hi> a man whom the Subscribers will not except a<g ref="char:EOLhyphen"/>gainst as an <hi>Incendiary,</hi> hath often told (and that well) <hi>A great many thousand souls live in America, and know not what a Law<g ref="char:EOLhyphen"/>yer means;</hi> and to what end, unless to that by those men intend<g ref="char:EOLhyphen"/>ed, I shall willingly leave to the seven mentioned, to answer.</p>
+            <p>Concerning it, I say no more, but from the bottome of mine heart (ô LORD, thou hearest) I do supplicate; that those who were at first the light, heedless <hi>Deliverers</hi> of these, and such like speeches, never so much as dreaming of their being unhappily circumvented, and engaged to save their credits by <hi>attesting</hi> or swearing the Truth of them; And, that those who have used them to the supplanting this unharmful mans hurtless soul; may never (after the doleful sight (which thou <hi>our Judge</hi> wilt on a day present them) of the mischievous service they are put to) be in<g ref="char:EOLhyphen"/>duced to steer desperately, and make their own Catastrophies, (through like perpetrations to that direfully exemplified) real <hi>Testimonies</hi> to the censuring world, of their assuming such a cruel <hi>Opinion</hi> in the <hi>time</hi> of horror, in the <hi>hour</hi> of tryal, <hi>Temptation.</hi>—</p>
+            <p>For, Matth. XXVII. 3, 4, 5. <hi>JƲDAS, when he saw that JESƲS was condemned, REPENTED HIMSELF—Say<g ref="char:EOLhyphen"/>ing, I have sinned in betraying the Innocent bloud. But they said, What is that to us? See thou to that. And— he departed, and went, and HANGED HIMSELF.</hi>
+            </p>
+            <p n="6">6) <hi>They would have the Councel of State disolved.</hi>
+               <note place="margin">Discoverer.</note>
+            </p>
+            <p n="1">1 <hi>Because these men fear, as the Case now stands, they MAY design to perpetuate their power, and keep off Parliaments for ever.</hi>
+            </p>
+            <p>Answ. 1 <hi>The Plot is no more but thus: A man should throw away his Meat, Money, Armour, &amp;c. because such things MAY do him harm. The expression whereof, is conviction sufficient.</hi>
+            </p>
+            <p>
+               <hi>Vin.</hi> An inept <hi>Simile</hi> indeed (as is obvious to any mans judgment.)</p>
+            <p>But 2 <hi>Opportunity</hi> is too shrewd a <hi>Temptation</hi> for men, to &amp;c.—</p>
+            <p>Answ. 2 <hi>The Councel of State can no more hinder,</hi>
+               <note place="margin">Discoverer.</note>
+               <hi>or keep the Parliament from sitting, than the Courts of Chancery, Ex<g ref="char:EOLhyphen"/>chequer, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Vind.</hi> Hold there. Can those Courts do any one of these Great matters next mentioned? which, how neer they may be <hi>improved</hi> to the <hi>feared</hi> end, I will not, do you say. I wish it may <hi>no more hinder, &amp;c.</hi>
+            </p>
+            <pb n="16" facs="tcp:172843:9"/>
+            <p n="2">2 <hi>Because they are possessed with power to order,</hi>
+               <note place="margin">Discoverer.</note>
+               <hi>and dispose all the Forces, &amp;c; Publique Treasure; To command any Person whatsoever before them, To give Oath for the discovering of Truth, To imprison those that shall disobey their Commands, and such as they shall judge contumacious.</hi>
+            </p>
+            <p>Answ. 1 <hi>To whom a Iurisdiction is given, unto it such things are necessarily granted, without which nothing can be done.—They finde fault because they have power to Act the things which pro<g ref="char:EOLhyphen"/>perly belong to such a State.</hi>
+            </p>
+            <p>
+               <hi>Vind.</hi> Then are some States <hi>deficient</hi> in what's <hi>proper,</hi> yea <hi>ne<g ref="char:EOLhyphen"/>cessary to such States.</hi> Which, what man, is so childish as to think? Can other States <hi>give Oathes</hi> of the Nature of that <hi>Ex Officio?</hi> Interogate (Prisoners) in matters Criminal which concerns them<g ref="char:EOLhyphen"/>selves, &amp;c. or <hi>nothing can be done?</hi>
+            </p>
+            <p>Answ. 2 <hi>Consists of</hi> 5 <hi>Particulars,</hi> which saith he, <hi>Let be con<g ref="char:EOLhyphen"/>sidered, &amp;c.</hi> and considered they should have been by me, if they had not been immediatly so presumptuously obtruded (as they are) for <hi>Assertiones.</hi>
+            </p>
+            <p n="3">3 <hi>They object against the Persons.</hi>
+               <note place="margin">Discoverer.</note>
+            </p>
+            <p n="1">1 <hi>The Chief of the Army.</hi>
+            </p>
+            <p>Answ. <hi>The Lord alwayes made them chief Instruments to pre<g ref="char:EOLhyphen"/>serve this Land from their horrid, inhumane, and bloudy Wiles, and workings against it.</hi>
+            </p>
+            <p>
+               <hi>Vind.</hi> Yet, such <hi>horrid, inhumane,</hi> and <hi>bloudy Wiles,</hi> and work<g ref="char:EOLhyphen"/>ings never were <hi>in rerum natura,</hi> but in the forges of lying fancies.</p>
+            <p n="2">2 <hi>The Iudges of the Law.</hi>
+               <note place="margin">Discoverer.</note>
+            </p>
+            <p>Answ. <hi>Here likewise we know their meaning; its confusion they would have: — Take the light away, and darkness must needs follow: That a Iudge of the Law,</hi> quatenus <hi>such, is unfit, &amp;c. it is the most sence-less thing that ever was uttered.</hi>
+            </p>
+            <p>
+               <hi>Vind.</hi> Concerning this kind of men, you have had <hi>Advice</hi> e<g ref="char:EOLhyphen"/>nough in the <hi>Advertisements for new Elections, &amp;c. Further,</hi> Note, the <hi>General,</hi> and <hi>General Councel,</hi> carefully put in this to the <hi>Agreement of the People,</hi> page 17. <hi>In case any Lawyer shall be chosen of any Representative, or Councel of State, then he shall be uncapable of Practise as a Lawyer, during that Trust.</hi>
+            </p>
+            <p>
+               <hi>Thirdly.</hi> What a notable <hi>stirre</hi> is here (by an oblique touch) put upon the <hi>other Members</hi> of the Honorable <hi>Councel of State.</hi> Ob<g ref="char:EOLhyphen"/>serve
+<pb n="17" facs="tcp:172843:9"/>it. If those <hi>Judges of the Law</hi> which are among them, should (suppose, by the next <hi>Representative</hi>) be <hi>taken away,</hi> then <hi>dark<g ref="char:EOLhyphen"/>ness must needs follow,</hi> (or this <hi>Preacher</hi> is beside his <hi>Text.</hi>
+            </p>
+            <p n="3">3 <hi>Treasurers of Money.</hi>
+               <note place="margin">Discoverer.</note>
+            </p>
+            <p>Answ. <hi>And why not? It will be time enough to give a further Answer, when we know the Cause and Ground, wherefore such are excepted.</hi>
+            </p>
+            <p>
+               <hi>Vind.</hi> The <hi>Cause and Ground wherefore such are excepted;</hi> there can be none so ignorant as not to <hi>know.</hi> Its superfluous to present a Reason (which the <hi>ingeny</hi> of any one, not born an inno<g ref="char:EOLhyphen"/>cent, will <hi>dictate</hi>) against those mens being in such a place.</p>
+            <p n="4">4 <hi>Exception is, That</hi> 5 <hi>were Members of the Lords House,</hi>
+               <note place="margin">Discoverer.</note>
+               <hi>And most of them such as have refused to approve of your Votes, and Proceedings, concerning the King, and Lords.</hi>
+            </p>
+            <p>Answ. 1 <hi>The Parliaments proceeding with the King, and Lords, is one thing against which, they</hi> (he means, the 4 men in question) <hi>do Protest.</hi> New Chain, Part 2. page 17, 18.</p>
+            <p>
+               <hi>Vind.</hi> The man <hi>Answers any thing,</hi> so he answers with <hi>some<g ref="char:EOLhyphen"/>thing:</hi> Here he tels us of <hi>Contradiction, Falshood, Hypocrisie,</hi> (such things, as his tongue freely, delivers) and conceals those words (of whosoever were the Authors) of that Discourse, which sufficiently speak the plain sence, <hi>viz. We also Protest against their — judg<g ref="char:EOLhyphen"/>ing, and taking away mens lives IN AN EXTRAOR<g ref="char:EOLhyphen"/>DINARY WAY. We also Protest against the Election and Establishment of those High Courts of Iustice, as unjust in them<g ref="char:EOLhyphen"/>selves, and of dangerous Presidence in time to come.</hi> And this is what they have to that purpose.</p>
+            <p>Answ.
+<note place="margin">Discoverer.</note> 2 <hi>They are here at their old Game to make Division be<g ref="char:EOLhyphen"/>tween the Parliament and Councel of State.</hi>
+            </p>
+            <p>
+               <hi>Vind.</hi> Would I had not cause to say, This man will, <hi>(patrizare)</hi> Iusts to do the deeds of that old <hi>Gamester</hi> mentioned <hi>Iohn VIII.</hi> 44. as he doth here.</p>
+            <p>Answ. 3 <hi>There are none of the Lords House,</hi>
+               <note place="margin">Discoverer.</note>
+               <hi>neither of the House of Commons, Members of the Councel of State, which did any thing in relation to the Treaty, or declined that last proceeding, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Vind.</hi> Why? no body said there are (whether there be or no) any such <hi>Members of the Councel of State.</hi> But (Further) take no<g ref="char:EOLhyphen"/>tice of the most ill-condition-like trick that ere I observe play'd
+<pb n="18" facs="tcp:172843:10"/>by a poor <hi>Answerer;</hi> The words quoted are taken from the next <hi>following Section</hi> (in the New Chaine) and the 5th (Subsequent) <hi>exception,</hi> doth <hi>intervene.</hi> The said <hi>Section</hi> begins thus, <hi>Some of your own House, forward men in the Treaty, and decliners of your last proceedings.</hi> To which this Answerer saith nothing, not a word.</p>
+            <p n="5">5 <hi>They except against such as were Iudges in the Star Chamber,</hi>
+               <note place="margin">Discoverer.</note>
+               <hi>and approvers of the bloudy, and tyrannical Sentences issuing from thence.</hi>
+            </p>
+            <p>Answ. <hi>Can there be imagined, an exception more light, irra<g ref="char:EOLhyphen"/>tional, groundless; For what if a man had been a Member of the High Commission Court, or of the Popes Conclave, this could not be any just bar, whereby he should be disabled from any future Office, Place, or Imployment, if nothing else did appear, and the Person o<g ref="char:EOLhyphen"/>therwise in every respect fitted, and qualified for the work.</hi>
+            </p>
+            <p>
+               <hi>Vind.</hi> 2 Kings XXIII. 9. <hi>Nevertheless the Priests of the high Places came not up to the Altar of the Lord in Ierusalem, but they did eat of the unleavened bread among their brethren.</hi> These men hold with that good <hi>Advizer,</hi> who wrote, <hi>Though some of these men may now be better Patriots, and otherways affected; yet since there be others untainted, not unworthy Choise, GOOD REASON it is, that they should be prefered before these.</hi> And hath not the Parliament made such an <hi>exception</hi> only, a bar sufficient, to <hi>disable</hi> men from being <hi>Chosen</hi> into <hi>Places, &amp;c?</hi> And presumest thou <hi>(Discoverer)</hi> to say, this <hi>bar</hi> was not <hi>just?</hi>
+            </p>
+            <p>
+               <hi>Here is a fit place to discover the vanity and folly of their book,</hi>
+               <note place="margin">Discoverer.</note>
+               <hi>entituled, The Picture of the Councel of State. And here</hi>
+            </p>
+            <p n="1">1) <hi>Note, the Original and moving cause wherefore the State apprehended them. Not onely had these men &amp;c, but withal had made a Traiterous Book—This being [known] the Parliament gave Commission and Order unto the Councel of State [for the ap<g ref="char:EOLhyphen"/>prehending and securing of those Mutineers.] The Councel ac<g ref="char:EOLhyphen"/>cordingly appointed some Officers of the Army to see the Parlia<g ref="char:EOLhyphen"/>ments command executed,</hi> &amp;c.— <hi>the which done, and the Persons brought before the Councel, it was shewed them (by the Lord Pre<g ref="char:EOLhyphen"/>sident) by what Authority they were sent for, and the Reason why,</hi> &amp;c.</p>
+            <p>
+               <hi>Vind.</hi> How <hi>imperfect</hi> the Relation is, let every one judge, that knows, or hath heard the proceedings reported. How <hi>untrue,</hi>
+               <pb n="19" facs="tcp:172843:10"/>you'l see by laying parallel to it, the Presidents words, to wit, <hi>This Councel having information that you have a principal hand in compiling and promoting this Book, and the Parliament having referred the enquiry after the authors and publishers to this Coun<g ref="char:EOLhyphen"/>cel; therefore they have sent for you.</hi> And remembring the <hi>War<g ref="char:EOLhyphen"/>rant for Commitment</hi> run thus—<hi>upon suspition of high Treason,</hi> &amp;c.</p>
+            <p n="2">2) <hi>For their Answer,</hi>
+               <note place="margin">Discoverer.</note> We must expect <hi>shortly</hi> a further <hi>dis<g ref="char:EOLhyphen"/>covery.</hi>
+            </p>
+            <p>
+               <hi>The next place unto which they bring us, is the Councel of War, and say.</hi>
+            </p>
+            <p n="1">1. <hi>By their means, after these fair blossoms of hopeful liberty, breaks forth this bitter fruit of the vilest and basest bondage, that ever English men groaned under.</hi>
+            </p>
+            <p>Answ. 1. <hi>When it is to plead for mutinous Souldiers,</hi> &amp;c. <hi>we shall hear them speak of good daies, times of Peace, all Courts of Iustice open (vid.</hi> the letter of two of them) <hi>but if it be to reproach the Army, they can make their tongues to say quite contrary, no<g ref="char:EOLhyphen"/>thing but bondage</hi> &amp;c. (<hi>new Chain p.</hi> 9.</p>
+            <p>
+               <hi>Vind.</hi> The man deals but dis-ingeniously, never tells us what this <hi>better fruit,</hi> &amp;c. which these men (are said to) except against, and which praecedes this citation without mean, was, whereby his <hi>Reader</hi> might have at hand, before his eyes, the matter he is to judge of, to <hi>censure,</hi> or <hi>acquit.</hi> For this his common trick, he may be called the <hi>Concealer, vid.</hi> pag. 30, 38.</p>
+            <p n="2">2. He is so cross, hee'l make <hi>Contraries</hi> of <hi>Convenients.</hi> Hear them,</p>
+            <q>
+               <p>
+                  <hi>Its a time of Peace, and all Courts of Iustice are open.</hi>
+               </p>
+               <p>
+                  <hi>There breaks forth bitter fruit of the vilest and basest bondage,</hi> &amp;c.</p>
+            </q>
+            <p>
+               <hi>Gross contradiction</hi> (for so he calls it) where lurkest thou, lyest thou hid? Come, ô man of <hi>Confidence (vid. Conclusion</hi> of his book) come with thy further <hi>Discovery,</hi> for this doth not make her appear.—If I look for it, it shall be at the <hi>catch</hi> of <hi>Opposition</hi> betwixt <hi>Peace</hi> and <hi>Bondage.</hi> And if I find it not there, the Reader must know he is to turn <hi>Seeker,</hi> if she be <hi>finde-able;</hi> if <hi>not,</hi> then <hi>Expectant</hi> till the next <hi>Discoverer</hi> come. — Token.</p>
+            <p>
+               <hi>Peace.</hi> I see (in the letter) stand free from malignant Cavaliers, and <hi>Bondage</hi> seems (in <hi>Chain.</hi> p. 9.) under the lefts sides <hi>hanger.</hi>
+               <pb n="20" facs="tcp:172843:11"/>But they are cleer of one another. Are not at fighting terms. Jer, XXIX. 7. <hi>Seek the Peace of the City whither I have caused you to be carried away CAPTIVES— For in the Peace thereof shall ye have PEACE.</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> 2. He is here quite beside the Saddle with a piece of the L. Col. letter; which being matter of report, which I cannot enquire about, Ile onely say, the Reader may in the <hi>Concessions</hi> of the <hi>Discoverer,</hi> have enough to complain of.</p>
+            <p>
+               <hi>Another cause of their complaint,</hi>
+               <note place="margin">Discoverer.</note>
+               <hi>is, that such Petitioners as have moved in the behalf of the People, have had their Petitions burnt by the common-hang-man. Likewise, for passng an Ordi<g ref="char:EOLhyphen"/>nance for Tythes upon treble damages.</hi> New Chain, 1. p. 7. &amp; 2. p. 4.</p>
+            <p>Answ. <hi>The Persons whom they do accuse all along, naming a prevailing power in the Army</hi> &amp;c. <hi>they have not had a hand in the things whereof they accuse them.</hi>
+            </p>
+            <p>
+               <hi>Vind.</hi> Its openly laid before us in the begining of that <hi>Section,</hi> in the first part, that its the <hi>House,</hi> not their <hi>Army,</hi> is blamed. And in 2. part, the <hi>Authors</hi> charge upon them, the <hi>passing this Ordi<g ref="char:EOLhyphen"/>nance,</hi> no otherwise, than <hi>as they (contrary to the importunate de<g ref="char:EOLhyphen"/>sires of the Agitators, and Remonstrance of the Army) permitted the conjunction of the Ʋsurpers, to those guarded to their places, One of the first fruits whereof was this Ordinance.</hi>
+            </p>
+            <p>Lastly,
+<note place="margin">Discoverer.</note>
+               <hi>There are many other accusations of this nature brought against the Councel of War, and Commanders of the Army, of all which we shall speak in our next Discovery.</hi> The <hi>one thing more, is toucht</hi> before.</p>
+            <p>
+               <hi>Vind.</hi> Now Reader, recollect your thoughts, and seriously con<g ref="char:EOLhyphen"/>sider, whether he, who is so vain, so false in his tongue, and noto<g ref="char:EOLhyphen"/>rious a make-bate, is to be heard, and not answered, reproved? Whether this <hi>unus ex plebe,</hi> (in our Common-wealth) be fit to sit a Judge, and sentence such men as these? and, Whether he hath cleerly demonstrated, by Reason and proof abundantly, that <hi>they have done already that for which they ought to suffer death?</hi> as he (out of the abundance of his heart) saith, p. 33. like the <hi>Priests,</hi> and <hi>Prophets,</hi> and <hi>all the People,</hi> against <hi>Ieremy,</hi> Cap. XXVI, <hi>v.</hi> 8.11.</p>
+            <closer>
+               <dateline>From my <hi>Counting-house,</hi>
+                  <date>June 6. 1649.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>ERRATA, <hi>P.</hi> 4. l. 3. for <hi>heart,</hi> r. <hi>head.</hi> p. 1 <hi>s.</hi> l. 24. r. <hi>thoughts.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
